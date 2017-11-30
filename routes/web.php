@@ -11,6 +11,5 @@
 |
 */
 Route::get('/', 'IndonesiaHolidayChecker@index');
-// Route::get('/check/{date}', 'IndonesiaHolidayChecker@check');
 Route::get('/check/{date}', 'IndonesiaHolidayChecker@check');
 Route::get('/check', 'IndonesiaHolidayChecker@check');

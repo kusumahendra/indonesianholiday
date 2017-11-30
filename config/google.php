@@ -10,7 +10,8 @@ return [
     | The Client ID can be found in the OAuth Credentials under Service Account
     |
     */
-    'client_id' => '701646604516-hlpnf3nm8arpr9ij87gnkaql91g6kqcd.apps.googleusercontent.com',
+    'client_id' => env('GOOGLE_CLIENT_ID'),
+
 
     /*
     |--------------------------------------------------------------------------
@@ -21,7 +22,7 @@ return [
     | OAuth Credentials under Service Account
     |
     */
-    'service_account_name' => 'indonesiaholiday@indonesiaholiday-187507.iam.gserviceaccount.com',
+    'service_account_name' => env('GOOGLE_SERVICE_ACCOUNT_NAME'),
 
     /*
     |--------------------------------------------------------------------------
@@ -31,5 +32,5 @@ return [
     | This is the location of the .p12 file from the Laravel root directory
     |
     */
-    'key_file_location' => '/resources/assets/indonesiaholiday-8a26d9944fe6.json',
+    'key_file_location' => env('GOOGLE_KEY_FILE'),
 ];

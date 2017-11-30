@@ -8464,3 +8464,12 @@ a.thumbnail image {
   }
 }
 
+section {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "indonesiaholiday-187507",
+  "private_key_id": "8a26d9944fe610bd5ff2547f32f4f6fee7b291c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDRxz02XaWi8mfg\nC06K1SdxLKO7b+o5B+EGM/jrjsavFILYf8miSPx6lJN7IsBmbbW2FWjWkvlApc3N\nnmXkcAeO9fmq8zU+tLd/QddSynsupO4YYdq9C12acOvXX8Xq9p3fT3o4O1gdxlqs\nZ/d4S7jhBH+ax4hx3+T6XUSfnPzuxwBtsdbCj69C4YltkcB3qPGufCTPM6DbasJ7\nP4Z3SYstPdTYVGK4Cvos4FUNVT2uGqUiyjAfNIBnYJNNqMdvj6Qz5T0dK7+7GN6q\nEOK5K9pFiTo2jNhaPQ2ymzJr7jsffxmVAU/FiuKDk9J6qEYvZRoBCjsQFZZllwE/\n8fouWktpAgMBAAECggEAE0hfSO+pfa2OzQ45A2O1vw5RhBWU1/ZwkaWGGl/6xSXr\nY5t2dTWEiL9+wX03poqr3u9/niavJOlAvkdyugFuvm4/i35U3P1XVyoeEPEGCurz\n7FeVV9ZzPZKm6RqXeqI974SSmVfiIQWGOO4LFjqOpVdoo9l2wjHojjdzywCvEsMb\nLKan7pctEL0mG9G5Lwe92fKY3dlHKAxx7JHJXnODnqCPKqSRQdMcza/NkwDhpG1W\n3J/BcoUxMlLp1LYRqbIgU8t9vQ4UVhaHKGDe1W2umLU1tI7T5ZbdoJybvmk1GPVN\nUv6YGLMOjU7mIzFNymm5UyH/lVqTFOgqoHttkbQIsQKBgQD075C6glt/M9eh2bSA\nhfDzjq/5OJQmHm7DDdLJie1YeQmqmjUruKytfn/OINrg5GPv4G9xQ1oblqz9UBv7\nr0Ca8WPVeF0xZ7p6GSK2s1OrFn6VmmiLiQQGxOuKoMnPf116OxrxpiSAQq7/Cr2b\n/fQ/gcP90z+h5Rs9R5VkwCxs2QKBgQDbQRzR77kMreZuscBSFZ7GxUyzjlSEQmPq\nxhwe6u6mySr31uEK3A9U4tVmkOwz1zvEG5PPHh6O+Gt2xZ/cUZF+STNzQPiBAblg\nY7whJE7XlrJyWObDRGg2+eo4hdQQ2PJ6MSJJxqQVE4QHMs9o57GubgdR/3BFTD2B\n+n6nDMj5EQKBgQChf8Rh9cn2mWw4n59QjwBM12xYW2HzsGU/30F4+aSxjT0+a+db\nKK1Sx/HlK+ymFHGAnO9eMxaa0kLF06hfzzI996PoATERfl+KWkB1TtCAIpjcc68z\nMeihvf3ArjviwQwVqBsf8nhmyZExQRe8XzpJFXrxRfTS/olzYluyzrN8IQKBgCGH\nVYbtJ9k+hqyK1iQ3Vi6DYXVb4KTRGkJ+xTIdLx2mScHYxFVKzbVncsbahqRu157n\nsLTNoFKwvo5NLmMcvikXvJx1ZQslXlnVJqHS0ZO6YdOGsNNPlLhDg4PdQ07IPlxd\nQycRD2qBr4ECTiF2vP81qDzr2RlfzVAhJFkbZWhhAoGBALaH40fWjqBYIDYTvH9G\nD7UWt2bXnNvIT1q5FsVEqr/k9SFWr5C3mpLYyNW7sN8LhFk3p9HiJk6ZFTg+Ah3X\nP8QqfRc0Tzs0IUUb6oshgI7mkLWGHarQsOGkXurTEq4zxmsB4nhN+n2g+LYnc5NO\ncsXq3UV4SccZryBaEIeeCSU/\n-----END PRIVATE KEY-----\n",
+  "client_email": "indonesiaholiday@indonesiaholiday-187507.iam.gserviceaccount.com",
+  "client_id": "106433043070937592940",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/indonesiaholiday%40indonesiaholiday-187507.iam.gserviceaccount.com"
+}
